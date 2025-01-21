@@ -1,0 +1,161 @@
+Elsevier Supplier Invoicing Frequently Asked Questions (FAQs)
+
+1. Until how long after a request for any goods or services is made can I issue an invoice to Elsevier?
+Answer: You must invoice Elsevier for any goods or services within six months of the date on which you became entitled to issue an invoice under the Terms of Purchase, and Elsevier shall not accept and shall not be obliged to pay any invoice which is issued late.
+
+2. What required information should suppliers submit in invoices?
+Answer:
+- The relevant invoice date
+- The full company name of the supplier as it appears on the company's certificate of incorporation or otherwise the full name of the entity that is issuing the invoice, and details of any applicable business or trading name, and the address of the supplier entity
+- The correct company name and address for the Elsevier entity the invoice is being submitted to
+- The Elsevier Purchase Order (PO) number, if applicable, must be quoted on the first page of the invoice
+- Invoices received must contain the same details as the PO provided by Elsevier, where applicable i.e. state the goods and services in a similar format (quantity, price per unit, total price per line)
+- A valid Elsevier contact name. This should be clearly visible on the first page of the invoice
+- A unique identifying invoice number
+- VAT/GST registration number (where applicable)
+- Date the goods/services were supplied to Elsevier
+- A clear description that enables Elsevier to identify the goods/services provided
+- The quantity of the goods or services with a unit price - excluding VAT/GST
+- The rate of VAT/GST per item (where applicable)
+- Amount being charged without VAT/GST added (where applicable)
+- Amount being charged including any applicable VAT/GST in the agreed upon/contractual invoice currency
+- A valid supplier e-mail address which Elsevier can use to send remittance advices
+- A valid supplier telephone contact number
+- Such bank details as are required for Elsevier to make an EFT/ACH remittance
+- The agreed upon/contractual payment terms
+
+3. What required information should suppliers submit in invoices to comply with laws imposing taxes?
+Answer: The required information includes the VAT registration number or tax ID, the 2 letter country code if applicable and the rate of VAT or sales tax per item.
+
+4. What if I'm an EU VAT registered supplier that wants to send an invoice to Elsevier in another EU country where the products and/or services are VAT exempt?
+Answer: In the case of an EU VAT registered supplier invoicing an Elsevier entity in another EU country where the products and/or services are VAT exempt, the invoice must clearly state the appropriate Elsevier entity VAT registration number and the supplier must provide appropriate documentation certifying its VAT entrepreneur status.
+
+5. What if I'm an EU VAT registered supplier that wants to send an invoice to Elsevier in another EU country where the services are subject to the reverse charge mechanism?
+Answer: In the case of an EU VAT registered supplier invoicing an Elsevier entity in another EU country where the services are subject to the reverse charge mechanism, then provided the supplier provides the Elsevier entity with a valid VAT invoice, quoting the Elsevier entity's VAT registration number, any VAT due on the services shall be accounted for by the Elsevier entity to the appropriate tax authority under that mechanism, in accordance with the requirements set out in the European VAT Directive (or any successor or replacement legislation).
+
+6. What required information should a supplier submit in invoices if it is not a VAT/GST registered company?
+Answer:
+If the supplier is not a VAT/GST registered company, the invoice must contain the same information with the exception of all VAT/GST related requirements, i.e. the following:
+- The relevant invoice date
+- The full company name of the supplier as it appears on the company's certificate of incorporation or otherwise the full name of the entity that is issuing the invoice, and details of any applicable business or trading name, and the address of the supplier entity
+- The correct company name and address for the Elsevier entity the invoice is being submitted to
+- The Elsevier Purchase Order (PO) number, if applicable, must be quoted on the first page of the invoice
+- Invoices received must contain the same details as the PO provided by Elsevier, where applicable i.e. state the goods and services in a similar format (quantity, price per unit, total price per line)
+- A valid Elsevier contact name. This should be clearly visible on the first page of the invoice
+- A unique identifying invoice number
+- Date the goods/services were supplied to Elsevier
+- A clear description that enables Elsevier to identify the goods/services provided
+- The quantity of the goods or services with a unit price - excluding VAT/GST
+- Amount being charged including any applicable VAT/GST in the agreed upon/contractual invoice currency
+- A valid supplier e-mail address which Elsevier can use to send remittance advices
+- A valid supplier telephone contact number
+- Such bank details as are required for Elsevier to make an EFT/ACH remittance
+- The agreed upon/contractual payment terms
+
+7. What if I don't provide all the required information that suppliers need to submit in invoices?
+Answer: Any invoices not complying with these requirements will be returned to the supplier and the supplier shall be obliged to cancel the non-compliant invoice and to issue a new invoice with the correct details – this resets the "due by" date for payment of the invoice.
+
+8. How does Elsevier issue payments to suppliers?
+Answer: Effective 1/1/2014, Elsevier will only issue payments to suppliers via Electronic Funds Transfer (EFT) / Automated Clearing House (ACH).
+
+9. In what format should suppliers send all invoices?
+Answer: Suppliers should send all invoices in pdf format to one of the email addresses set out below. Invoices should not be sent to an Elsevier contact, as this will result in a delay of the payment being sent to the supplier's account. (Exception: Invoices related to Elsevier Urban & Partner Sp z.o.o. should be submitted directly to your Elsevier contact.)
+
+10. To where should suppliers should send all invoices?
+Answer: Suppliers should send all invoices in pdf format to one of the email addresses set out below. Invoices should not be sent to an Elsevier contact, as this will result in a delay of the payment being sent to the supplier's account. (Exception: Invoices related to Elsevier Urban & Partner Sp z.o.o. should be submitted directly to your Elsevier contact.)
+
+11. To where does Elsevier send remittance advices?
+Answer: Elsevier will only issue electronic remittance advices to the email address provided.
+
+12. What if there are changes to my bank details?
+Answer: Suppliers must give Elsevier at least 3 weeks' notice of changes to bank details.
+
+13. What if there are bank charges like transfer fees from making payments to a different bank?
+Answer: Elsevier is not responsible for any bank charges arising from payments.
+
+14. What if I have several sites with one site having paid credits and another site having unpaid invoices?
+Answer: Elsevier treats a supplier with several sites as one supplier; this means Elsevier shall have the right to offset credits from one site against invoices from another site.
+
+15. What if my company changes its name?
+Answer: Any changes to a supplier's company name, due to merger or acquisition etc, must be notified to Global Procurement so that Elsevier's records can be corrected and updated.
+
+16. Who can I contact or email for any payment or invoicing issues?
+Answer: For any payment or invoicing issues, the supplier can contact the Global P2P support desk
+- E-mail: P2PhelpdeskUS@Elsevier.com
+- Telephone:
+United Kingdom: +44 1865 84 3198
+The Netherlands: +31 20 485 2571
+United States/Canada: +1 937 865 7804
+
+17. How long before I get a response to my query on my payment or invoicing issue?
+Answer: We commit to responding to your query within 48 hours (Monday – Friday).  If you do not receive a response or you are not satisfied then please contact Global Head P2P advising us of the issue and your contact details.
+
+18. Where do I email PDF invoices?
+Answer: Send an email based on the country you're located in:
+- US/Canada - AP.General@Elsevier.com
+- United Kingdom/Netherlands - ApInvoicesELS-AMS@elsevier.com
+- France - invoices_france@elsevier.com
+- Poland - Submit invoice to your Elsevier contact
+- India - A.APIndia@Elsevier.com
+- Japan - GFSPaymentteam@reedelsevier.com
+- China - Submit invoice to your Elsevier contact
+- Singapore, Hong Kong - APSNGHK@Elsevier.com
+- Taiwan - Submit invoice to your Elsevier contact
+- Korea - Submit invoice to your Elsevier contact
+- Australia - Accountspayable@elsevier.com
+- Spain - Invoices-spain@elsevier.com
+- Mexico - Invoices-mexico@elsevier.com
+- Frankfurt - supplier.invoices@elsevier.com
+- Munich - APGermanyGmbH@elsevier.com
+- Egypt, Italy and Turkey - SBUpayments@elsevier.com
+- Brazil - apelsevier@reedalcantara.com.br
+
+19. What if I want to use Elsevier's electronic invoicing system?
+Answer: The requirements for Elsevier's electronic invoicing system will be provided when requested and you will be provided with an Elsevier technical contact in order to assist with the set up. There will be a required format, content and method of invoice submission.
+
+20. Who do I contact or email for invoice processing issues?
+Answer: For any invoice processing issues, you can contact the P2P Invoice Processing Team at p2pipteamus@elsevier.com
+
+21. Who do I contact for vendor master issues?
+Answer: For any vendor master issues, you can contact the Vendor Master Team at p.usa@elsevier.com
+
+22. Who do I contact for other issues?
+Answer: For any issues, you can contact the P2P Help Desk Team at p2phelpdeskus@elsevier.com
+
+23. Where can I check the status of my invoice on my own?
+Answer: You can check the status of your invoice using your invoice number at the following link: https://nonsolus.science.regn.net/globalfinance/Tools/legal_entities/legal_entities.asp
+
+Please note that it takes 24 hours before changes in invoice status is reflected in the system. In addition, in compliance with data storage and data processing agreements, only the past 4 months of invoice data is kept in the system.
+
+24. What is Elsevier?
+Answer: Elsevier is a global company with headquarters in Amsterdam and offices worldwide that publishes scientific journals, provides data and tools for research and healthcare, and supports open access and diversity.
+
+25. Where is Elsevier’s headquarters located?
+Answer: Elsevier’s headquarters is located in Amsterdam, Netherlands.
+
+26. Where is Elsevier’s corporate office in Brazil located?
+Answer: The corporate office in Brazil is located at City Tower Building, Rua de Assembleia St, RJ Centro, Rio de Janeiro.
+
+27. What is the address of Elsevier’s office in New York, USA?
+Answer: The New York office is located at 230 Park Avenue, 8th floor, New York, NY 10169.
+
+28. How can I contact Elsevier’s office in Philadelphia, USA?
+Answer: You can contact the Philadelphia office at 1600 John F Kennedy Boulevard, Suite 1800, Philadelphia, PA 19103. Tel: +1 215-239-3900, Fax: +1 215-239-3901.
+
+29. Where is Elsevier’s corporate office in Australia?
+Answer: The corporate office in Australia is located at Tower 1, Level 10, 475 Victoria Avenue, Chatswood, NSW 2067. 
+
+30. What is the address of Elsevier’s office in Beijing, China?
+Answer: The Beijing office is located at No. 1 East Chan An Ave, Dong Cheng District, Oriental Plaza Tower W3, 15th Floor, Unit 15B.
+
+31. How can I contact Elsevier’s office in Tokyo, Japan? 
+Answer: You can contact the Tokyo office at Higashi Azabu 1-9-15, Minato Ku, Tokyo 106-0044. Fax: +81 3-5561-5037. 
+
+32. Where is Elsevier’s corporate office in Germany located? 
+Answer: The corporate office in Germany is located at St Martin Tower, Franklinstrasse 61-63, 60486 Frankfurt.
+
+33. What is the address of Elsevier’s office in Paris, France? 
+Answer: The Paris office is located at 65 rue Camille Desmoulins, 92130 Issy les Moulineaux, Paris.
+
+34. How can I contact Elsevier’s office in Dubai, UAE?
+Answer: You can contact the Dubai office at Arjaan Office Tower, Office 304, Dubai Media City, P.O. Box 502390. Tel: +971 4 390 3573, Fax: +971 4 390 3574.
